@@ -1,6 +1,6 @@
 website:
 
-aaryankapur.tech
+https://aaryankapur.tech
 
 resume:
 
