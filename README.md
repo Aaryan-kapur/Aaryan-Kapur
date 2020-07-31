@@ -1,15 +1,7 @@
-website:
+website: https://aaryankapur.tech
 
-https://aaryankapur.tech
+resume: https://aaryankapur.tech/AaryanKapur.pdf
 
-resume:
+Cover letter: https://aaryankapur.tech/cover_letter.jpeg
 
-https://aaryankapur.tech/AaryanKapur.pdf
-
-Cover letter:
-
-https://aaryankapur.tech/cover_letter.jpeg
-
-LinkedIN:
-
-https://www.linkedin.com/in/aaryankapur/
+LinkedIN: https://www.linkedin.com/in/aaryankapur/
