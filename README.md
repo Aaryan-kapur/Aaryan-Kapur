@@ -54,7 +54,6 @@
 [linkedin]: https://linkedin.com/in/aaryankapur
 [whatsapp]: https://wa.me/917507442555
 [webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
+
 [reactplaylist]:
 
