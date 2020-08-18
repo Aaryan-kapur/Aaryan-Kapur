@@ -9,7 +9,7 @@
 [![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Faaryankapur.tech)](https://aaryankapur.tech/AaryanKapur.pdf)
 [![Cover Letter](https://img.shields.io/website?label=Cover%20Letter&style=for-the-badge&url=https%3A%2F%2Faaryankapur.tech)](https://aaryankapur.tech/cover_letter.jpeg)
 <br />
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram][![linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://linkedin.com/in/aaryankapur)
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][![linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://linkedin.com/in/aaryankapur)
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][![twitter](https://img.shields.io/website?label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/aaryankapur_)
 <br />
