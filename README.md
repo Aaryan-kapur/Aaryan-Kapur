@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaryan-kapur&count_private=true&show_icons=true&hide_border=true&hide=stars" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-kapur&show_icons=true&hide_border=true" />
+  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-kapur&layout=compact&show_icons=true&hide_border=true" />
 
 </details>
 
