@@ -17,7 +17,7 @@
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp][![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/917507442555)
 <br />
-
+[![Gists Badge](https://badges.pufler.dev/gists/aaryan-kapur)](https://aaryankapur.tech)
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
