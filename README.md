@@ -3,6 +3,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Netflix and game 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur)
+
 ### Connect with me:
 [<img align="left" alt="aaryankapur.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [![Website](https://img.shields.io/website?label=aaryankapur.tech&style=for-the-badge&url=https%3A%2F%2Faaryankapur.tech)](https://aaryankapur.tech)
