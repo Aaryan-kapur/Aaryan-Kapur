@@ -4,7 +4,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Netflix and game 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur&margin-w=10&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur&margin-w=10)
 
 ### Connect with me:
 [<img align="left" alt="aaryankapur.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
