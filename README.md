@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Netflix and game 
-![Profile views](https://gpvc.arturio.dev/Manthan109)  <img src="https://img.shields.io/github/followers/aaryan-kapur?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/aaryan-kapur)  <img src="https://img.shields.io/github/followers/aaryan-kapur?label=Follow" style=" float:left, margin-right:10px" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur&margin-w=10&title=Commit,Followers,PullRequest,Stars,Issues)
 
