@@ -1,5 +1,5 @@
-### Hi there, I'm Aaryan👋
 ![aaryan-kapur](https://github.com/Aaryan-kapur/aaryan-kapur.github.io/blob/master/images/aaryan.gif?raw=true)
+### Hi there, I'm Aaryan👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
