@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Netflix and game 
+- 🥅 2021 Goals: Shifting to being a project manager from being a programmer!
+- ⚡ Fun fact: I love to Chill and game 
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur&margin-w=10&title=Commit,Followers,PullRequest,Stars,Issues)
