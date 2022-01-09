@@ -4,8 +4,6 @@
 
 ![aaryan-kapur](https://github.com/Aaryan-kapur/aaryan-kapur.github.io/blob/master/images/aaryan.gif?raw=true)
 
-![](https://komarev.com/ghpvc/?username=aaryan-kapur&color=green)
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
 - 🥅 2021 Goals: Shifting to being a project manager from being a programmer!
