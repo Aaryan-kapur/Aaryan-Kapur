@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
-- 🥅 2021 Goals: Shifting to being a project manager from being a programmer!
-- ⚡ Fun fact: I love to Chill and game 
+- 🥅 2022 & eventual Goals: Shifting back to being a programmer, exploring new technologies I enjoy!
+- ⚡ Fun fact: Exploring VR and meta gaming concepts.
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aaryan-kapur&margin-w=10&title=Commit,Followers,PullRequest,Stars,Issues)
